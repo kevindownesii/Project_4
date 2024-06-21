@@ -11,10 +11,13 @@ We utilized the following machine learning tehcniques:
 - Random Forest
 - Support Vector Machine (SVM)
 
-- Linear regression is a model for describing the relationship between a numerical response and one or more variables that explains the response.
-- Decision tree is a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. 
-- Random Forest is a tree-like model that will sample data and build several simpler decision trees. 
-- Support Vector Machines (SVM) is a supervised learning model that we can use for classification and regression analysis. SVM separates classes of data points into multidimensional space.
+ Linear regression is a model for describing the relationship between a numerical response and one or more variables that explains the response.
+
+ Decision tree is a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility. 
+
+ Random Forest is a tree-like model that will sample data and build several simpler decision trees. 
+
+ Support Vector Machines (SVM) is a supervised learning model that we can use for classification and regression analysis. SVM separates classes of data points into multidimensional space.
 
 # Results showed the following: 
 
