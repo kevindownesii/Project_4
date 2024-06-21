@@ -2,7 +2,7 @@
 
 For Project 4, we used a housing data set from Kaggle (https://www.kaggle.com/datasets/sukhmandeepsinghbrar/housing-price-dataset/data) to predict housing price using supervised machine learning (ML) regression model since we had continuous valued variables.  
 
-Our csv file contained 21,613 records of data. 
+Our csv file contained 21,613 records of data. We utilized Scikit-learn and PySpark to conduct our analysis. 
 
 We utilized the following machine learning tehcniques: 
 
@@ -21,7 +21,7 @@ We utilized the following machine learning tehcniques:
 
 # Results showed the following: 
 
-* Linear Regression using sqaure feet living space came out to an r2 score of 0.49
+* Linear Regression using square feet living space came out to an r2 score of 0.49
 * Decision Tree came out to a r2 score of 0.61
 * Random Forest came out to a r2 score of 0.84
 * Support Vector Machine (SVM) came out to a r2 score of -0.05
@@ -34,3 +34,4 @@ Utilzing PySpark, we performed SQL qeueries to find the following:
 - What is the average price of a home per "view" rating, rounded to two decimal places, having an average home price greater than or equal to $350,000? Order by descending view rating.
 
 Our analysis showed that Random Forest was the best model to used since its ability to handle non-linear relationships, reduce overfitting through ensemble averaging, and provide insights into feature importance.
+
