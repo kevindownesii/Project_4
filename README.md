@@ -10,6 +10,7 @@ We utilized the following machine learning tehcniques:
 - Decision Tree
 - Random Forest
 - Support Vector Machine (SVM)
+- Neural Network
 
  Linear regression is a model for describing the relationship between a numerical response and one or more variables that explains the response.
 
@@ -19,12 +20,15 @@ We utilized the following machine learning tehcniques:
 
  Support Vector Machines (SVM) is a supervised learning model that we can use for classification and regression analysis. SVM separates classes of data points into multidimensional space.
 
+ Neural Network is an advanced form of machine learning that contains multiple layers of nodes, which perform individual computations.
+
 # Results showed the following: 
 
 * Linear Regression using square feet living space came out to an r2 score of 0.49
 * Decision Tree came out to a r2 score of 0.61
 * Random Forest came out to a r2 score of 0.84
 * Support Vector Machine (SVM) came out to a r2 score of -0.05
+* Neural Network came out to a r2 score of 0.85
 
 Utilzing PySpark, we performed SQL qeueries to find the following: 
 
